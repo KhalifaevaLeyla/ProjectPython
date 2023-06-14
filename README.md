@@ -12,5 +12,5 @@ __Авторы:__ Махтина Софья, Рыбьякова Елизавет
 
 :white_check_mark: Машинное обучение (Лиза);
 
-### В работе анализируется два набора данных о болезнях сердца🫀 [(heart disease)](https://www.kaggle.com/datasets/zzettrkalpakbal/full-filled-brain-stroke-dataset?select=full_data.csv) и инсультах 🧠 (stroke):
+### В работе анализируется два набора данных о болезнях сердца🫀 [heart disease)](https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset) и инсультах 🧠 [(stroke)](https://www.kaggle.com/datasets/zzettrkalpakbal/full-filled-brain-stroke-dataset?select=full_data.csv)
 
