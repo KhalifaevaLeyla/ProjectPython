@@ -3,7 +3,7 @@ __Тема:__ Исследование различных групп пацие�
 
 __Авторы:__ Махтина Софья, Рыбьякова Елизавета, Халифаева Лейла
 
-### В работе анализируется два набора данных о болезнях сердца🫀 [(heart disease)](https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset) и инсультах 🧠 [(stroke)](https://www.kaggle.com/datasets/zzettrkalpakbal/full-filled-brain-stroke-dataset?select=full_data.csv)
+### В работе анализируется два набора данных: о болезнях сердца🫀 [(heart disease)](https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset) и инсультах 🧠 [(stroke)](https://www.kaggle.com/datasets/zzettrkalpakbal/full-filled-brain-stroke-dataset?select=full_data.csv)
 
 _Все использованные данные и созданные в ходе работы таблицы лежат [тут](https://github.com/KhalifaevaLeyla/ProjectPython/tree/c7ddeece962c1b551e79e8e9b8c6e85bbf88741d/data)_
 
